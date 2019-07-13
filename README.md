@@ -1,2 +1,2 @@
-# apmae4990-hw-project-langzippkk
-apmae4990-hw-project-langzippkk created by GitHub Classroom
+# learning material and homeworks for intro to ML
+
